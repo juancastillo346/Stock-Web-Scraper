@@ -1,4 +1,4 @@
-### Stock Web Scrapper
+# Stock Web Scrapper
 
 <p> This Java-based stock web scraper uses Jsoup to extract stock names and prices from financial websites, enabling efficient monitoring and analysis of market trends. </p>
 
